@@ -1,4 +1,4 @@
-package xuwei.tech
+package xuwei.tech.batch
 
 import org.apache.flink.api.scala.ExecutionEnvironment
 
